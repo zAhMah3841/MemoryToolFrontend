@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appMemoryManagementToolFrontend_FILE /home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/appMemoryManagementToolFrontend)
+set(__QT_DEPLOY_TARGET_appMemoryManagementToolFrontend_TYPE EXECUTABLE)

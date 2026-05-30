@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/MemoryManagementFrontend">/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/MemoryManagementFrontend</file>
+
+  </qresource>
+</RCC>

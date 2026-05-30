@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/appMemoryManagementToolFrontend_autogen",
+	"CMAKE_BINARY_DIR" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/zhmh/MemoryManagementFrontend",
+	"CMAKE_SOURCE_DIR" : "/home/zhmh/MemoryManagementFrontend",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/appMemoryManagementToolFrontend_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/zhmh/MemoryManagementFrontend/AnalysisView.qml",
+		"/home/zhmh/MemoryManagementFrontend/main.qml",
+		"/home/zhmh/MemoryManagementFrontend/fonts/Inter-Regular.ttf",
+		"/home/zhmh/MemoryManagementFrontend/fonts/JetBrainsMono-Bold.ttf",
+		"/home/zhmh/MemoryManagementFrontend/fonts/MaterialSymbolsOutlined-VariableFont_FILL,GRAD,opsz,wght.ttf",
+		"/home/zhmh/MemoryManagementFrontend/fonts/JetBrainsMono-Regular.ttf",
+		"/home/zhmh/MemoryManagementFrontend/fonts/Inter-Bold.ttf"
+	],
+	"LOCK_FILE" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/zhmh/MemoryManagementFrontend/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

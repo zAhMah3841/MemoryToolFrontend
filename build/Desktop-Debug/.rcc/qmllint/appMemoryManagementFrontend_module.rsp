@@ -1,0 +1,14 @@
+-I
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug
+-I
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/MemoryManagementFrontend
+-I
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/qmake_MemoryManagementFrontend.qrc
+--resource
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/appMemoryManagementFrontend_raw_qml_0.qrc
+--module
+MemoryManagementFrontend

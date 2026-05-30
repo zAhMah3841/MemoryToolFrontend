@@ -1,0 +1,14 @@
+-rootPath
+/home/zhmh/MemoryManagementFrontend
+-cmake-output
+-output-file
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/qml_imports/appMemoryManagementFrontend_build.cmake
+-importPath
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug
+-importPath
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/MemoryManagementFrontend
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/qmake_MemoryManagementFrontend.qrc
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/appMemoryManagementFrontend_raw_qml_0.qrc

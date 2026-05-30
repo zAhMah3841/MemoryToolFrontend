@@ -1,0 +1,6 @@
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend.dir
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend_qmlimportscan.dir
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend_autogen_timestamp_deps.dir
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/CMakeFiles/appMemoryManagementToolFrontend_autogen.dir

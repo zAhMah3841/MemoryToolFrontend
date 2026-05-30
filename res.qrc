@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AnalysisView.qml</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/MaterialSymbolsOutlined-VariableFont_FILL,GRAD,opsz,wght.ttf</file>
+        <file>fonts/JetBrainsMono-Bold.ttf</file>
+        <file>fonts/JetBrainsMono-Regular.ttf</file>
+        <file>fonts/Inter-Regular.ttf</file>
+        <file>fonts/Inter-Bold.ttf</file>
+    </qresource>
+</RCC>

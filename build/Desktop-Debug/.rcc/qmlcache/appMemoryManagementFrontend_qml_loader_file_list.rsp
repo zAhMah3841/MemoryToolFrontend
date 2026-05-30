@@ -1,0 +1,5 @@
+--resource
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/qmake_MemoryManagementFrontend.qrc
+--resource
+/home/zhmh/MemoryManagementFrontend/build/Desktop-Debug/.qt/rcc/appMemoryManagementFrontend_raw_qml_0.qrc
+/qt/qml/MemoryManagementFrontend/Main.qml

@@ -1,0 +1,6 @@
+module MemoryManagementFrontend
+typeinfo appMemoryManagementFrontend.qmltypes
+prefer :/qt/qml/MemoryManagementFrontend/
+Main 254.0 Main.qml
+depends QtQuick
+
